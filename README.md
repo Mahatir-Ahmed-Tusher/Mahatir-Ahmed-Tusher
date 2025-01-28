@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahatir Ahmed Tusher
 
-### Passionate Full-Stack Developer | AI/ML Researcher | Bridging Innovation & Technology
+### Passionate Full-Stack Developer | AI/ML Researcher | Connecting Ideas to Innovation
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mahatir-Ahmed-Tusher&color=brightgreen)
 
